@@ -38,8 +38,15 @@ enaho2020_file = os.path.join(RAW_DATA, "ENAHO 2020.sav")
 enaho2021_file = os.path.join(RAW_DATA, "ENAHO 2021.sav")
 
 ## Intermediate Data
+
+### Costa Rican Commuting Zones
 costa_rican_commuting_zones_file = os.path.join(INTERMEDIATE_DATA, "czcr.xlsx")
 
+### Employment Census 2011
+employment2011_file = os.path.join(INTERMEDIATE_DATA, "employment2011.xlsx")
+
 ## Final Data
+
+### Costa Rican Route Distance and Travel Time
 costa_rican_municipalities_distance_matrix = os.path.join(FINAL_DATA, "distances.xlsx")
 
