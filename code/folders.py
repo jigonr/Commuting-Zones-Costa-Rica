@@ -49,6 +49,7 @@ employment2011_file = os.path.join(INTERMEDIATE_DATA, "employment2011.xlsx")
 
 ### Costa Rican Route Distance and Travel Time
 costa_rican_municipalities_distance_matrix = os.path.join(FINAL_DATA, "distances.xlsx")
+costa_rican_municipalities_distance_matrix_stata = os.path.join(FINAL_DATA, "distances.dta")
 
 costa_rican_aggregate_distance_matrix = os.path.join(FINAL_DATA, "agg_distances.xlsx")
 
